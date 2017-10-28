@@ -1,0 +1,11 @@
+{
+  "name": "shawcliffe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tapvolt/shawcliffe.git",
+  "author": "Gareth Jackson <gareth.jackson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "^0.6.4"
+  }
+}
